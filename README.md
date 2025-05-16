@@ -14,7 +14,7 @@
   
 ### Project Overview
 ---
-The UK Meteorological Office require a model to predict surface pressure of North Atlantic Ocean. To make such a prediction, time series techniques was implemented. Surface pressure of the North Atlantic Ocean has been collected over time from 1st May, 2018 to 31st May, 2018, for three hour interval each day, making it a time series data. Accurate surface pressure forecast contribute to more reliable weather forecasts. The aim of this project was to predict the surface pressure.  
+The UK Meteorological Office require a model to predict surface pressure of North Atlantic Ocean. To make such a prediction, time series techniques was implemented. Surface pressure of the North Atlantic Ocean has been collected over time from 1st May, 2018 to 31st May, 2018, for three hour interval each day, making it a time series data. Accurate surface pressure forecast contribute to more reliable weather forecasts. The aim of this project was to predict the surface pressure. ARIMA model was the best model with a RMSE of 85.92 Pa.  
 
 ![rmse1](https://github.com/user-attachments/assets/c51a8c78-e156-4d69-8dee-4239d156f727)
 
