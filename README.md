@@ -42,8 +42,8 @@ In the initial data preparation please, I performed the following tasks:
    
 ### Exploratory Data Analysis
 EDA involved exploring the WRF data to answer key questions, such as: 
--	What machine learning models can be performed using the provided dataset 
--	What is the best model among the other machine learning models  
+-	What machine learning models can be performed using the provided dataset? 
+-	What is the best model among the other machine learning models?  
 
   ![tsplot2](https://github.com/user-attachments/assets/24894701-8b7e-4b30-a124-1f0837d06c16)
 
