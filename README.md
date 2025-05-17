@@ -11,6 +11,7 @@
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [References](#references)
+- [Contact](#contact)
   
 ### Project Overview
 ---
@@ -94,7 +95,7 @@ The dataset was provided as part of ongoing studies, so its authenticity cannot 
 11.	Wwa. (2024) Who we are [Online] Available from: https://www.metoffice.gov.uk/about-us/who-we-are. [Accessed 10 May 2024].
 
 
-## 📬 Contact
+## Contact
 Feel free to reach out!  
 📧 Email: [oduroprince08@gmail.com](mailto:oduroprince08@gmail.com) &nbsp;|&nbsp; 🔗 LinkedIn: [linkedin.com/in/oduroprince24](https://linkedin.com/in/oduroprince24)
 
